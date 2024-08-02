@@ -18,7 +18,7 @@ body * {
     
 }
 nav {
-    padding-top: 3px;
+    padding-top: 15px;
     padding-bottom: 3px;
     margin: 0 210px;
     display: flex;
@@ -70,7 +70,7 @@ nav {
     transition: 5s all;
 }
 #section1 {
-    padding-top: 90px;
+    padding-top: 110px;
     margin: 0 210px 0 210px;
     display: grid;
     grid-template-columns: 1fr 1fr;
