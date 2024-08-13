@@ -1,0 +1,21 @@
+@media screen and (max-width:700px){
+    #nav {
+        margin: 0;
+    }
+    #nav-links {
+        display: none;
+    }
+    #section1 {
+        display: grid;
+        grid-template-columns: 200px;
+    }
+    #col1-title {
+        font-size: 20px;
+    }
+    #col1-p1 {
+        font-size: 20px;
+    }
+    #col1-p2 {
+        font-size: 25px;
+    }
+}

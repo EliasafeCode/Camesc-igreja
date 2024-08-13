@@ -1,5 +1,4 @@
 @import url(https://db.onlinewebfonts.com/c/879269be836bf8d970d4ef4fb0e54f42?family=GT+America+Extended+Regular);
-@import url(https://db.onlinewebfonts.com/c/4c4c08af466e9ad071b6d69cf44093df?family=SaolDisplay-Regular);
 :root {
     --text-color: black;
 }
@@ -14,11 +13,8 @@ body {
     width: 100%;
     font-family: "GT America Extended Regular", Arial, sans-serif;
 }
-body * {
-    
-}
 nav {
-    padding-top: 15px;
+    padding-top: 25px;
     padding-bottom: 3px;
     margin: 0 210px;
     display: flex;
@@ -142,11 +138,6 @@ nav {
     justify-content: center;
     font-weight: 200;
 }
-
-
-
-
-
 #section2 {
     margin: 10px 210px ;
 }
@@ -238,11 +229,4 @@ nav {
     font-weight: 200;
     font-size: 27px;
     text-align: center;
-}
-@media screen and (max-width:906px){
-    body {
-        margin: 0;
-        padding: 0;
-    }
-    
 }
